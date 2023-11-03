@@ -43,6 +43,6 @@ CleanAir Quest is a data-driven project aiming to optimize pollution monitoring 
 - Agricultural production, health outcomes, climate change management and more are heavily dependent on environmental tracking and more specifically, air pollution monitoring. Our solution provides an easy and convenient solution for providing air quality metrics necessary for this.
 
 ## Video Submission Link
-bit.ly/cleanair-quest-submission
+bit.ly/cleanair-quest
 
 -----------
