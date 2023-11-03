@@ -11,7 +11,7 @@ CleanAir Quest is a data-driven project aiming to optimize pollution monitoring 
 
 ## Project Outline and Technologies
 1. **Data Collection:** Utilized OpenWeatherMap's Airpollution API to query air pollution and geographical data through Postman API.
-2. **Data Preprocessing:** Cleaned, processed, and engineered features for analysis on Azure ML Studio.
+2. **Data Preprocessing:** Cleaned, processed, and engineered features for analysis on Azure ML Studio notebooks.
 3. **Model Development:** Trained and tested the model to predict the Air Quality Index on Azure ML Studio.
 4. **Deployment:** Deployed the model using Azure Machine Learning Service.
 
@@ -45,3 +45,4 @@ CleanAir Quest is a data-driven project aiming to optimize pollution monitoring 
 ## Video Submission Link
 bit.ly/cleanair-quest-submission
 
+-----------
